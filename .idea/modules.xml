@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es5bulkinsert.iml" filepath="$PROJECT_DIR$/.idea/modules/es5bulkinsert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es5bulkinsert_main.iml" filepath="$PROJECT_DIR$/.idea/modules/es5bulkinsert_main.iml" group="es5bulkinsert" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es5bulkinsert_test.iml" filepath="$PROJECT_DIR$/.idea/modules/es5bulkinsert_test.iml" group="es5bulkinsert" />
+    </modules>
+  </component>
+</project>
